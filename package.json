@@ -1,6 +1,10 @@
 {
   "name": "a11ycss",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/longmatthewh/a11ycss.git"
+  },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
     "gulp": "^3.9.1",
