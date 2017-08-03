@@ -5,6 +5,8 @@
     "type": "git",
     "url": "https://github.com/longmatthewh/a11ycss.git"
   },
+  "license": "MIT",
+  "main": "./a11y.css",
   "devDependencies": {
     "autoprefixer": "^7.1.2",
     "gulp": "^3.9.1",
